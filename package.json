@@ -6,7 +6,7 @@
   "dependencies": {
     "dotenv": "^8.2.0",
     "ejs": "^3.0.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "googleapis": "^39.2.0",
     "gs": "^0.0.2",
     "nodemon": "^2.0.3",
